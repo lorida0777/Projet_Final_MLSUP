@@ -63,7 +63,7 @@ Variables notables :
  ┣ 📄 README.md
  ┗ 📂 data
      ┗ 📄 Weather_Data.csv 
- ┗ 📂 data
+ ┗ 📂 Rapport
      ┗ 📄 Rapport_ML_Sup.pdf
      ┗ 📄 Rapport_ML_Sup.tex
 ```
